@@ -53,6 +53,6 @@ El análisis sigue un flujo de trabajo estructurado para garantizar la validez d
 3. Ejecutar el archivo `S9 Version_Student_Proyecto_Landing_Experiment.ipynb` en Jupyter Notebook o VS Code.
 
 ---
-**Desarrollado por:** [Tu Nombre]  
+**Desarrollado por:** Reinier Vargas Jardines  
 **Especialidad:** Análisis de Datos / Experimentación A/B  
-**Bootcamp:** Proyecto Final Sprint 9
+**Bootcamp:** Data Analyst Proyecto Final Sprint 9 
